@@ -217,11 +217,11 @@
 	},
 	"sources": {
 		"staticoin.sol": {
-			"keccak256": "0xcb56a761a6da74a37e9e3b81ae3306aaa543f949336fd85bdb72b0cbe5bdab5e",
+			"keccak256": "0x1ea5c0918c3d31f990e231fc6efd7280d8773a90fb9180037156a9ed7d02e8c4",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://84aa2c1635d4ec2270f9ff8613b96977019cdd3978a5f53333ee8319f4f8bd7d",
-				"dweb:/ipfs/QmdPP7LyBkvN2hsQrPvkNbke7zEYHG3CbdngeUycsdSL8a"
+				"bzz-raw://c5c571cb50372f6bcf28754e89f6c5045d4e45cd2c2de5fe61403fffb27b1d4c",
+				"dweb:/ipfs/QmW3BRuuoe3AYycp8uXJkPYRTiAKML8Hrtkvs4B5aaxrFs"
 			]
 		}
 	},

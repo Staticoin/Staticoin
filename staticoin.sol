@@ -33,8 +33,8 @@ contract SafeMath {
 }
 
 contract Staticoin is BEP20Interface, SafeMath {
-    string public name = "Staticoin Test";
-    string public symbol = "SICT";
+    string public name = "Staticoin";
+    string public symbol = "SIC";
     uint8 public decimals = 18;
     uint8 public _howManyTimesDoOwnerTriedToTransfer;
     uint256 public _totalSupply = 1000000000000000000000000000000000000000;
